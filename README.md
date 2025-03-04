@@ -1,6 +1,6 @@
 <br clear="both">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEA241&width=435&lines=Prazer!+Meu+nome+%C3%A9+Leonardo+Lopes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EEA241&width=435&lines=Prazer!+Meu+nome+%C3%A9+Leonardo+Lopes)](https://git.io/typing-svg)
 
 ###
 
