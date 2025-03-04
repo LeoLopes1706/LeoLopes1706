@@ -39,7 +39,7 @@
   <a href="https://www.instagram.com/leolopes.og/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a  href="mailto:leonardolopes.org@gmail.com" target="_blank">
+  <a href="mailto:leonardolopes.org@gmailcom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/leonardo-lopes-dos-santos-a0160b2b6/" target="_blank">
@@ -48,8 +48,9 @@
 </div>
 
 ###
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/LeoLopes1706/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/LeoLopes1706/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/LeoLopes1706/output/github-contribution-grid-snake.svg">
-</picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LeoLopes1706/LeoLopes1706/output/snake.svg" alt="Snake animation" />
+
+###
