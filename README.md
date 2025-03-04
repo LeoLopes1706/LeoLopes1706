@@ -48,8 +48,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LeoLopes1706/LeoLopes1706/output/snake.svg" alt="Snake animation" />
-
-###
