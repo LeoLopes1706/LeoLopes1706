@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="left">Prazer! Meu nome é Leonardo Lopes</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEA241&width=435&lines=Prazer!+Meu+nome+%C3%A9+Leonardo+Lopes)](https://git.io/typing-svg)
 
 ###
 
