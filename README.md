@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Tenho 17 anos e atualmente estou cursando Engenharia de Software. Estou em busca de um estágio na área de TI para desenvolver minhas habilidades e crescer profissionalmente. Tenho conhecimento em HTML, CSS, JavaScript, Excel, Git e GitHub, e estou estudando novas tecnologias para Desenvolvimento Web. Meu objetivo é aprimorar meus conhecimentos em desenvolvimento web e banco de dados, além de conseguir minha primeira experiência na área de tecnologia. Se quiser trocar ideias, me chama no LinkedIn ou no GitHub! Vamos crescer juntos. 😃</p>
+<p align="left">Tenho 18 anos e atualmente estou cursando Engenharia de Software. Estou em busca de um estágio na área de TI para desenvolver minhas habilidades e crescer profissionalmente. Tenho conhecimento em HTML, CSS, JavaScript, Excel, Git e GitHub, e estou estudando novas tecnologias para Desenvolvimento Web. Meu objetivo é aprimorar meus conhecimentos em desenvolvimento web e banco de dados, além de conseguir minha primeira experiência na área de tecnologia. Se quiser trocar ideias, me chama no LinkedIn ou no GitHub! Vamos crescer juntos. 😃</p>
 
 ###
 
